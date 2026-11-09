@@ -1,0 +1,19 @@
+# Qt Creator / CMake build output
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+*.user
+*.user.*
+
+# IDE and operating system files
+.vs/
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+
+# Runtime-generated data backups
+data/*.bak
